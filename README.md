@@ -39,3 +39,14 @@ The script will:
   - `slopes_features.xlsx`: The engineered feature set.
   - `confusion_matrix.eps`: The confusion matrix plot.
   - `plsda_2d.eps`: The 2D PLS-DA scores plot.
+
+## Results
+
+### Confusion Matrix
+![Confusion Matrix](figures/confusion_matrix.png)
+
+### Feature Importance Ranking
+![Feature Importance Ranking](figures/importance_ranking.png)
+
+### PLS-DA Plot
+![PLS-DA Plot](figures/pls_da_plot.png)
